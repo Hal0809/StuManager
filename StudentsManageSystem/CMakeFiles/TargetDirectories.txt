@@ -1,0 +1,8 @@
+D:/cppDesign/EasyChat/CMakeFiles/EasyChat.dir
+D:/cppDesign/EasyChat/CMakeFiles/edit_cache.dir
+D:/cppDesign/EasyChat/CMakeFiles/rebuild_cache.dir
+D:/cppDesign/EasyChat/CMakeFiles/list_install_components.dir
+D:/cppDesign/EasyChat/CMakeFiles/install.dir
+D:/cppDesign/EasyChat/CMakeFiles/install/local.dir
+D:/cppDesign/EasyChat/CMakeFiles/EasyChat_autogen_timestamp_deps.dir
+D:/cppDesign/EasyChat/CMakeFiles/EasyChat_autogen.dir

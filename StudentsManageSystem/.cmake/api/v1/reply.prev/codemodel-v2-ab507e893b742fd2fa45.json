@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a65f04ac42ac142de5af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EasyChat",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EasyChat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EasyChat-Debug-361f22dc4c73221d6627.json",
+					"name" : "EasyChat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EasyChat_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EasyChat_autogen-Debug-512c03c6a8e54db4f422.json",
+					"name" : "EasyChat_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EasyChat_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EasyChat_autogen_timestamp_deps-Debug-19c6d31c04601ee83656.json",
+					"name" : "EasyChat_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/cppDesign/EasyChat",
+		"source" : "D:/cppDesign/EasyChat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
